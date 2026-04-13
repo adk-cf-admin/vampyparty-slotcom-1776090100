@@ -1,0 +1,19 @@
+{
+  "name": "Vampy Party",
+  "short_name": "Vampy Party",
+  "theme_color": "",
+  "background_color": "#0A0514",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1776089414-7815904839aeae65542050e922908f54-removebg-preview-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
